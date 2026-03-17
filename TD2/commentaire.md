@@ -1,0 +1,5 @@
+- **Typographie** : J'ai utilisé police sans-serif surle body pour que l'ensemble du site soit moderne et fluide.
+- **Flex** : utilisation de flexbox pour la navigation et les sections, pour le responsive et la structure de la page.
+- **Espaces blancs** : Utilisation de margin et de gap pour laisser le contenu respirer.
+- **#fafafa** : utlisation de #fafafa pour embellir les sections.
+- **Italique** : Italique pour les avis des clients.
